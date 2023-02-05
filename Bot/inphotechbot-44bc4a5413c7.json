@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "inphotechbot",
+  "private_key_id": "44bc4a5413c70562b8ea3a0b28ead98bb8210fbb",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQDKMLUaeyakRHdL\ntG23f/vUkpz4qk/0K7wZqhTRXbJJ+jlQXAA0MFxISJObBwynV/JwPAtIJc6sNSBL\n+0TuYmFqDnp1TvyvrtWaIr+DQ9lb/ohP3b5Gs1RpEW99xkG7J2amN/EwJz531kRQ\nJrgIFZQue29esv5ewmtIhsT//WyvWVSweDoyTl4Y3uwG7yKWhnIjf7xXD3PHj1bC\nSkZufn7vgRO1ZUZpiszQTnLKy+dOiRoiLawdlr49F/b/YU4v9t3EfbJd6aJInOGR\nD4qLfER9qOGuft2S6tx9SKUwdqqDnACJIE7bT9diFT1kk+g+OKU9HGjtpROHzLSz\nsq5p+FzLAgMBAAECggEABiccoRVVpAgQAqDB+fnjZaD0ipNRjYz102jGlhHI3CbI\n2bYtrL46q1nHYXSsdjyJ5yUcnscaa/PN63dWWKlrwiN1/IiOeKDUZTVg0z4cU4gC\nXpPRN4DmNQWlI+mwPwwVkUIAjUY/HhHKJbpCkr8SsaYV9IbJO4RPvsxDGxsmKeEl\n2FsuYJdQwDo0HUpLnU7kEe7jbCgnVDF4fds+2EBa1iVz6qZwFV+B+JozSc+I8Efs\ndR0KOFXBCUjeY8GFfImOO0MC2bqyXBCCyIaDPGUNtESc6xbJ1gogfBtHdsbnPS84\nXQ7Li9EjbBhph6W7+laaNPCM7eeiylZKiT9NgoCzoQKBgQDuUoGebGY8GrFj1flN\n0KDun4c91bH6wK5D7fff4PMb0lxmJOuiy7WulNkTXGyKm7t5ZQ0P2f+3BZkH1G1G\nzfTpUyOmRHIU9mXjpxjn60WslxFFu0cR0V9wMnhbDudKEuXwRthUxjz0t34Lnisz\nnLPEzV/DD4zbpZTq5W2cLVC62wKBgQDZMBdgHPoPT3sQBbEgQk050IYInm4DGgf3\nJXtCNHos1lW/ZMk3TUXG+T5ckBywHZ6YQxNCtCAdofbeJMKpzFSFuywqCqKK3r80\njKXW7K5NG+h0Uu3pLGQIm/hEDEpFr8Ovb99pS4pcfw3D2GOIl8ZFsErOXz3TP/+f\nwv6WhPBw0QKBgQDQh2DjPfY2oSSWNqPtcp9eLDgp4tHYlr/ksFQzkKEntukidyu3\nRoeyOou2ZSiUH6/qiIDlXdpiSoOcVkNHsO6bOiP3V+x6ax68E3m3dCWC3qw+V5/X\n91uK0J5/DotSRTbtBxBDHTI47lVb1Qn4HyUtDoa8Jt8ZUcj7v8Qo433AAQKBgQC3\nX0BNOQn0BVJM+9FKAFC9oI6aFlGiMsdI5w+DnVUOKEUrnIe7NnXUgjoh4tcl50wx\nGGjZp8V533bUpkrpHAi9BIRMVsBX6aucTafzp8+ecRK5rA8NERrAnhdmNM48uiLJ\nK/aAK3R9lhRkJ34aJLMVwbvXNFi51M4Z8IQNR97OEQKBgQCjJ4Kujeuc/NiKNER2\nQuo8sNpnFKjpEYt42/sq3OABqj7j/2IxPpP0KuOBjUcskiUVxkFl1BxDprzh7aGy\nZnrL+PvQv6/6bofX41jOTl52dsGwuYbNXe5mERnJjC4wUFWsjQbbgRoN/3cEID24\n1noD24aslOoi14/FgzfwULNRnQ==\n-----END PRIVATE KEY-----\n",
+  "client_email": "inphotech@inphotechbot.iam.gserviceaccount.com",
+  "client_id": "110852260522525438906",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/inphotech%40inphotechbot.iam.gserviceaccount.com"
+}
